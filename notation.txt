@@ -1,1 +1,7 @@
-let's go
+- Kiểu dữ liệu dạng chữ (chuỗi): Strìng tương ứng với varchar, nvarchar trong MySQL
+- Kiểu dữ liệu dạng số:
+Số nguyên: byle < short < int < long
+Số thực: float, double
+- Kiểu dữ liệu dạng chữ (chỉ lưu trữ 1 ký tự tương ứng với 1 nút trên bàn phím: char
+- Kiểu dữ liệu dạng logic (True/False): boolean
+- Trừ String, 8 kiểu dữ liệu trên được gọi là 8 kiểu dữ liệu nguyên thủy trong Java
